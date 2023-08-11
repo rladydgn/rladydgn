@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhdgn)](https://solved.ac/dhdgn)
 
-  <a href="https://github.com/rladydgn"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jea0716&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="SOKURI's github stats" /></a>
-  <a href="https://github.com/rladydgn"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jea0716&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
+![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=rladydgn&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rladydgn&theme=dark)
