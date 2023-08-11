@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhdgn)](https://solved.ac/dhdgn)
+
 <hr>
+
 ![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=rladydgn&show_icons=true&theme=transparent)
+
 <br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rladydgn&theme=transparent)
