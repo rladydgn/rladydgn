@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 ![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=rladydgn&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rladydgn&layout=compact&theme=transparent)
-
--   헤더 구현 - [ ]
